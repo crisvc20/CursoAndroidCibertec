@@ -128,8 +128,7 @@ class MainActivity : AppCompatActivity() {
             */
         }
 
-        crearLogConMsg("para subir a git")
-        crearLogConMsg("para git")
+       
 
 
     }
