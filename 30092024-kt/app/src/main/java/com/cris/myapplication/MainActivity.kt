@@ -128,6 +128,9 @@ class MainActivity : AppCompatActivity() {
             */
         }
 
+        crearLogConMsg("para subir a git")
+        crearLogConMsg("para git")
+
 
     }
     //Cuando no retorna nada se pone Unit (como void en java)
